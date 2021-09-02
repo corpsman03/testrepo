@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-"This is file A " 
-=======
-"new chamge in feature" 
->>>>>>> feature
+this is fileA- merger for feature branch
