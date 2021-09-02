@@ -1,2 +1,1 @@
-"This is file A -new feature adding" 
-"new app is ready to deplou" 
+"new chamge in feature" 
