@@ -1,7 +1,1 @@
-"every good boy does fine" 
-<<<<<<< HEAD
-"I am ironman" 
-=======
-"Thor is god of thunder" 
->>>>>>> feature
 "Avenger file " 
