@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 "This is file A -new feature adding-version 1" 
+=======
+"This is file A -new feature adding" 
+"new app is ready to deplou" 
+>>>>>>> feature
