@@ -1,1 +1,1 @@
-"This is file A -new feature adding" 
+"This is file A -new feature adding-version 1" 
