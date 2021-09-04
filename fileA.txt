@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-this is fileA- merger for feature branch
-=======
-"new chamge in feature" 
-"new file added name as fileA" 
->>>>>>> feature
+this file is version1 file
